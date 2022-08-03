@@ -1,6 +1,6 @@
 <?php
 
 
-echo "Hello, git!";
+echo "Hello, git!, it's my first Repo.";
 
 ?>
